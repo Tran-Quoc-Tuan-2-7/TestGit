@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lo ccc ccc
+=======
+lo ccc
+>>>>>>> hinh1
